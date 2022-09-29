@@ -80,9 +80,8 @@ The following will be judges for Season 1, Chapter 1:
 
 **09/30** – Registration Closes at thecoh.build at 11:59pm UTC.  
 **10/1** – Begin Building (See Builder Resources)  
-**10/3** – Mentor Session 1 (Optional), Open Hours 7-10 UTC, [Add to Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWNiY291ZDJsamhwaW9zczhsbmUxY25pamQgcm9iaW5AbWt0Lm1hcmtldA&tmsrc=robin%40mkt.market)  
-**10/4** – Mentor Session  2 (Optional), Open Hours 7-10 UTC, [Add to Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmxzMjZpcGoyNjRyb3JydTkwczQydG41dGQgcm9iaW5AbWt0Lm1hcmtldA&tmsrc=robin%40mkt.market)  
-**10/11** – Share Progress Update & Schedule for Judging in COH Telegram Chat  
+**10/3** – Mentor Session 1 (Optional), Open Hours 7-10 UTC, [Add to Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWNiY291ZDJsamhwaW9zczhsbmUxY25pamQgY18xNmYwYzVlNWQ2MjdmMzVhODQ3MmExMTkyNjZhNzUzYjMxOWYxMmViZmM5YTRhMTYxZWM4N2FkYjJlYWI0NjNkQGc&tmsrc=c_16f0c5e5d627f35a8472a119266a753b319f12ebfc9a4a161ec87adb2eab463d%40group.calendar.google.com)  
+**10/4** – Mentor Session  2 (Optional), Open Hours 7-10 UTC, [Add to Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmxzMjZpcGoyNjRyb3JydTkwczQydG41dGQgcm9iaW5AbWt0Lm1hcmtldA&tmsrc=robin%40mkt.market)
 **10/21** – Projects Due. Must submit to this repo by 11:59pm UTC.  
 **10/22** – Judging Sessions will be scheduled 3-5pm, 5-7pm, 7,9pm (UTC)   
 **10/23** – Judging Sessions will be scheduled 3-5pm, 5-7pm, 7,9pm (UTC)  
