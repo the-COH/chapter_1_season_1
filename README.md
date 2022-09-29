@@ -1,6 +1,7 @@
 **Canto Online Hackathon | Chapter 1, Season 1 | October 1 - 23** 
 
 # [Apply to Hack](https://eugnmr538db.typeform.com/to/DqXgaPju?typeform-source=thecoh.build)  
+  
 
 The Canto Online Hackathon ([COH](https://thecoh.build)) is a virtual summit that invites developers, creatives, and communicators to launch the next wave of apps, infrastructure, and original work on Canto.
 
