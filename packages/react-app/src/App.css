@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding-left: calc(100vw - 100%);
+}
+
+.bd-red {
+  border: 1px solid red;
+}
+
+.bd-blue {
+  border: 1px solid blue;
+}

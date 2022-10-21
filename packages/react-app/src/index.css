@@ -1,0 +1,236 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Halvatica", cursive;
+}
+
+
+.App {
+  text-align: center;
+  max-width: 100vw;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Milonga-Regular;
+}
+
+button {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+code {
+  font-family: Milonga-Regular, source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.btn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  text-shadow: 5px 5px 5px #000000;
+  color:#e6d6ca;
+  font-size: 17px;
+  background: #521212;
+  padding: 7px 15px 7px 14px;
+  font-family: 'Milonga-Regular';
+  text-decoration: none;
+}
+.btn-buy {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  text-shadow: 5px 5px 5px #000000;
+  color:#e6d6ca;
+  font-size: 17px;
+  background: #107d2c;
+  padding: 7px 15px 7px 14px;
+  font-family: 'Milonga-Regular';
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f0270c;
+  text-decoration: none;
+}
+.btn-buy:hover {
+  background: #1bf00c;
+  text-decoration: none;
+}
+.createBtn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  text-shadow: 5px 5px 5px #000000;
+  color:#e6d6ca;
+  font-size: 23px;
+  background: #521212;
+  padding: 10px 16px 10px 16px;
+  text-decoration: none;
+  font-family: 'Milonga-Regular';
+}
+
+.createBtn:hover {
+  background: #f0270c;
+  text-decoration: none;
+}
+
+.navButton{
+  text-decoration: none;
+  font-family: 'Milonga-Regular';
+}
+
+.navbar {
+  height: 80px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.menu-bars {
+  font-size: 2rem;
+  background: none;
+}
+
+.nav-menu {
+  width: 60%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  transition: 850ms;
+  background-color: #471507;
+}
+
+.nav-menu.active {
+  left: 0;
+  transition: 350ms;
+}
+
+.nav-text {
+  display: flex;
+  justify-content: start;
+  color:#e6d6ca;
+  align-items: center;
+  padding: 8px 0px 8px 16px;
+  list-style: none;
+  height: 60px;
+}
+
+.nav-text a {
+  text-decoration: none;
+  font-size: 18px;
+  width: 97%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  border-radius: 4px;
+}
+
+.nav-text a:hover {
+  background-color: #8f5737;
+}
+
+.nav-menu-items {
+  width: 100%;
+}
+
+.navbar-toggle {
+  background-color: #471507;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.mobileNav {
+  background-color: #521212;
+}
+
+.headerClass{
+  padding: 40px;
+}
+
+.heroImage {
+  width: 400px;
+  height: 400px;
+  padding: auto;
+  animation: 3s ease-in;
+ 
+}
+
+@media (max-width: 400px) {
+  .flex-grid,
+  .flex-grid-thirds {
+    display: block;
+    
+  }
+}
+@media (max-width: 400px) {
+      .col {
+        width: 100%;
+        margin: 0 0 10px 0;
+      }
+}
+
+input, textarea {
+  background: transparent;
+  border: 1px solid rgba(106, 20, 20, 1);
+}
+
+
+.basic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap:1rem;
+}
+
+.flex-grid { 
+  margin: 0 0 20px 0;
+}
+.item {
+  background-color: rgba(104, 102, 102, 0.3);
+  padding: 7px;
+  border: 1px solid rgba(122, 14, 113, 0.5);
+  border-radius: 5%;
+}
+
+
+.item-image {
+  border-radius: 5%;
+}
+.item-contain {
+  padding: 19px;
+  background-color: rgba(104, 102, 102, 0.3);
+}
+
+.text-col{
+  color: dimgray;
+}
+
+/* .imgContain {
+  box-shadow: 0 0 8000px #75042a;
+  z-index: 5;
+} */
+
+@media (max-width: 1024px) {
+  .headerClass{
+    padding: 10px;
+    flex-direction: row-reverse;
+  }
+}
+@font-face {
+  font-family: 'FantaisieArtistique';
+  src: local('FantaisieArtistique'), url(./fonts/FantaisieArtistique.ttf) format('truetype');}
+@font-face {
+  font-family: 'Milonga-Regular';
+  src: local('Milonga-Regular'), url(./fonts/Milonga-Regular.ttf) format('truetype');}
