@@ -52,12 +52,12 @@ Developed with
 
 ## Usage
 
-- [Demo App Site](https://)
-- [Video Demo](https://youtu.be/)
+- [Demo App Site](https://nftmanager.surge.sh)
+- [Video Demo](https://www.loom.com/share/206951c2db904cf590c83a8b6aa3c494)
 
 ## Contributors
 
 - [Naim Bijapure](https://naim-bijapure.github.io/) </br>
 
-- [EngrGord](https://twitter.com/Chijoke_) </br>
+- [Chijioke](https://twitter.com/Chijoke_) </br>
 
