@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "100x100",
+      "src": "favicon.png",
+      "type": "image/png"
+    }
+  ],
+  "name": "kanto",
+  "short_name": "kanto",
+  "start_url": ".",
+  "theme_color": "#000000"
+}

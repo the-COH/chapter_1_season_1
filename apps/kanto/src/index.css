@@ -1,0 +1,189 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Circular;
+  src: url('./assets/fonts/circular-std-medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: Cairo;
+  src: url('./assets/fonts/cairo-regular.ttf');
+}
+
+@font-face {
+  font-family: Pixel;
+  src: url('./assets/fonts/power-small.ttf');
+}
+
+@font-face {
+  font-family: Pixel;
+  src: url('./assets/fonts/power-bold.ttf');
+  font-weight: bold;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    font-family: Cairo, ui-serif;
+  }
+}
+
+@layer utilities {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+body {
+  @apply text-sm h-screen pb-safe overflow-hidden;
+}
+
+a:hover {
+  @apply underline;
+}
+
+/*
+ * Loading Icon Inside Buttons
+ */
+.icon-spin {
+  -webkit-animation: icon-spin 1s infinite linear;
+  animation: icon-spin 1s infinite linear;
+  display: inline-block;
+}
+
+@keyframes icon-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+
+/**
+ * React Select
+ */
+.react-select__control {
+  @apply bg-[#F8F8F8] border border-black min-h-[50px] rounded-[10px] w-[150px] cursor-pointer !important;
+}
+
+.dark .react-select__control {
+  @apply bg-neutral-700 border border-neutral-900 min-h-[50px] rounded-[10px] w-[150px] cursor-pointer !important;
+}
+
+.react-select__control:hover {
+  @apply bg-[#F2F2F2] !important;
+}
+
+.dark .react-select__control:hover {
+  @apply bg-neutral-500 !important;
+}
+
+.form-select-errors .react-select__control {
+  @apply border-red-500 !important;
+}
+
+.react-select__control--is-focused {
+  @apply border-black shadow-none !important;
+}
+
+.react-select__value-container {
+  @apply py-0 !important;
+}
+
+.react-select__input {
+  @apply ring-0 border-none !important;
+}
+
+.react-select__placeholder {
+  @apply text-black !important;
+}
+
+.dark .react-select__placeholder {
+  @apply text-white !important;
+}
+
+.react-select__single-value {
+  @apply text-[14px] text-black font-normal !important;
+}
+
+.dark .react-select__single-value {
+  @apply text-[14px] text-white font-normal !important;
+}
+
+.react-select__menu {
+  @apply bg-white rounded-[10px] shadow-lg mt-0 z-50 min-w-[150px] cursor-pointer !important;
+}
+
+.dark .react-select__menu {
+  @apply bg-neutral-700 rounded-[10px] shadow-lg mt-0 z-50 min-w-[150px] cursor-pointer !important;
+}
+
+.dark .react-select__option {
+  @apply text-white !important;
+}
+
+.react-select__option--is-selected {
+  @apply bg-[#EFEFEF] text-black cursor-pointer rounded-[8px] !important;
+}
+
+.dark .react-select__option--is-selected {
+  @apply bg-neutral-500 text-white cursor-pointer !important;
+}
+
+.react-select__option--is-focused {
+  @apply bg-[#F8F8F8] text-black cursor-pointer rounded-[8px] !important;
+}
+
+.dark .react-select__option--is-focused {
+  @apply bg-neutral-600 text-white cursor-pointer !important;
+}
+
+.react-select-addon-before .react-select__control {
+  @apply bg-gray-100 rounded-r-none border-r-0 !important;
+}
+
+.react-select-addon-before .react-select__control--is-focused {
+  @apply border-neutral-300 border-r z-10 !important;
+}
+
+.react-select-addon-after .react-select__control {
+  @apply rounded-l-none !important;
+}
+
+.react-select--is-disabled .react-select__control {
+  @apply bg-[#F8F8F8] pointer-events-auto !important;
+}
+
+.dark .react-select--is-disabled .react-select__control {
+  @apply bg-neutral-700 pointer-events-auto !important;
+}
+
+.react-select--is-disabled:hover .react-select__control {
+  @apply bg-[#F2F2F2] !important;
+}
+
+.dark .react-select--is-disabled:hover .react-select__control {
+  @apply bg-neutral-500 !important;
+}
+
+.react-select__control--is-disabled .react-select__control {
+  @apply border-black !important;
+}
+
+.dark .react-select__control--is-disabled .react-select__control {
+  @apply border-neutral-900 !important;
+}
+
+.react-select__indicator-separator {
+  @apply hidden !important;
+}
+
+.menu-open .react-select__indicator {
+  @apply transition ease-linear duration-100 rotate-180 !important;
+}

@@ -1,0 +1,21 @@
+{
+	"name": "kanto",
+	"version": "1.0.0",
+	"description": "Workspace for Kanto",
+	"main": "index.ts",
+	"repository": "git@github.com:TheMushroomGame/kanto.git",
+	"author": "Mushroom Guys <all@themushroomgame.com>",
+	"license": "Proprietary",
+	"private": true,
+	"scripts": {},
+	"workspaces": [
+		"apps/*",
+		"libs/*",
+		"contracts/*",
+		"utils/*"
+	],
+	"devDependencies": {
+		"eslint": "^8.23.0",
+		"eslint-config-kanto": "^1.0.0"
+	}
+}

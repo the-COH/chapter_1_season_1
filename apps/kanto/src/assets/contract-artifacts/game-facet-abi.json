@@ -1,0 +1,358 @@
+[
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "previousOwner",
+                "type": "address"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "newOwner",
+                "type": "address"
+            }
+        ],
+        "name": "OwnershipTransferred",
+        "type": "event"
+    },
+    {
+        "inputs": [],
+        "name": "acceptOwnership",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint256",
+                "name": "pokemonId",
+                "type": "uint256"
+            },
+            {
+                "internalType": "uint32",
+                "name": "ballId",
+                "type": "uint32"
+            },
+            {
+                "internalType": "uint256",
+                "name": "randomSeed",
+                "type": "uint256"
+            }
+        ],
+        "name": "capture",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint8",
+                "name": "terrainId",
+                "type": "uint8"
+            },
+            {
+                "internalType": "uint256",
+                "name": "randomSeed",
+                "type": "uint256"
+            }
+        ],
+        "name": "encounter",
+        "outputs": [
+            {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "pure",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint32[]",
+                "name": "inventoryIds",
+                "type": "uint32[]"
+            }
+        ],
+        "name": "getInventoryQuantities",
+        "outputs": [
+            {
+                "internalType": "uint8[]",
+                "name": "",
+                "type": "uint8[]"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "nomineeOwner",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "owner",
+        "outputs": [
+            {
+                "internalType": "address",
+                "name": "",
+                "type": "address"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint32[]",
+                "name": "itemIds",
+                "type": "uint32[]"
+            },
+            {
+                "internalType": "uint8[]",
+                "name": "quantities",
+                "type": "uint8[]"
+            }
+        ],
+        "name": "purchase",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint32",
+                "name": "stageId",
+                "type": "uint32"
+            }
+        ],
+        "name": "setStage",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address payable",
+                "name": "destination",
+                "type": "address"
+            },
+            {
+                "internalType": "uint256[]",
+                "name": "pokemonIds",
+                "type": "uint256[]"
+            },
+            {
+                "internalType": "uint8[]",
+                "name": "quantities",
+                "type": "uint8[]"
+            }
+        ],
+        "name": "tradeBack",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "account",
+                "type": "address"
+            }
+        ],
+        "name": "transferOwnership",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint32",
+                "name": "itemId",
+                "type": "uint32"
+            },
+            {
+                "internalType": "string",
+                "name": "name",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "description",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "imageHash",
+                "type": "string"
+            },
+            {
+                "internalType": "uint256",
+                "name": "price",
+                "type": "uint256"
+            },
+            {
+                "internalType": "bool",
+                "name": "consumable",
+                "type": "bool"
+            }
+        ],
+        "name": "updateItem",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "playerId",
+                "type": "address"
+            },
+            {
+                "internalType": "string",
+                "name": "name",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "description",
+                "type": "string"
+            },
+            {
+                "internalType": "uint32",
+                "name": "spriteId",
+                "type": "uint32"
+            }
+        ],
+        "name": "updatePlayer",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint32",
+                "name": "pokemonId",
+                "type": "uint32"
+            },
+            {
+                "internalType": "string",
+                "name": "name",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "description",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "imageHash",
+                "type": "string"
+            },
+            {
+                "internalType": "uint8",
+                "name": "type1",
+                "type": "uint8"
+            },
+            {
+                "internalType": "uint8",
+                "name": "type2",
+                "type": "uint8"
+            }
+        ],
+        "name": "updatePokemon",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint32",
+                "name": "spriteId",
+                "type": "uint32"
+            },
+            {
+                "internalType": "string",
+                "name": "name",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "description",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "imageHash",
+                "type": "string"
+            }
+        ],
+        "name": "updateSprite",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "uint32",
+                "name": "stageId",
+                "type": "uint32"
+            },
+            {
+                "internalType": "string",
+                "name": "name",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "description",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "mapHash",
+                "type": "string"
+            },
+            {
+                "internalType": "string",
+                "name": "collisionMapHash",
+                "type": "string"
+            }
+        ],
+        "name": "updateStage",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    }
+]

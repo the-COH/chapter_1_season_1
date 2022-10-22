@@ -1,0 +1,48 @@
+.wallet-select {
+    position: relative;
+    background: transparent;
+}
+
+.wallet-select .popup-content {
+    max-width: 350px;
+    background: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.wallet-select .popup-content h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #314459;
+}
+
+.wallet-select-list {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.wallet-select-list li {
+    transition: 0.2s all;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.wallet-select-list li img {
+    width: 40px;
+    object-fit: contain;
+}
+
+.wallet-select-list li p {
+    padding-left: 20px;
+    color: #314459;
+    font-weight: 500;
+    font-size: 16px;
+}

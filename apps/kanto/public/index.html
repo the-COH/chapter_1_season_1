@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.png" />
+  <meta
+    content="initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover, user-scalable=no, shrink-to-fit=no"
+    name="viewport" />
+  <meta name="theme-color" content="#006C35" />
+  <meta name="robots" content="noindex" />
+  <meta name="description" content="" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/favicon.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <style>
+    body {
+      background: #eeebf0;
+    }
+
+    #root:empty {
+      position: absolute;
+      top: calc(50% - 1.5em);
+      left: calc(50% - 1.5em);
+      width: 3em;
+      height: 3em;
+      border: 0.3em solid rgba(0, 0, 0, 0.1);
+      border-left: 0.3em solid #006C35;
+      border-radius: 50%;
+      animation: load 1.1s infinite linear;
+    }
+
+    @keyframes load {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+  <title>Kanto</title>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+</body>
+
+</html>
