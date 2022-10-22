@@ -1,0 +1,1210 @@
+[
+	{
+		"name": "Bulbasaur",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": 2
+	},
+	{
+		"name": "Ivysaur",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": 5
+	},
+	{
+		"name": "Venusaur",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": 10
+	},
+	{
+		"name": "Charmander",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": 2
+	},
+	{
+		"name": "Charmeleon",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": 5
+	},
+	{
+		"name": "Charizard",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "Flying",
+		"captureOdds": 10
+	},
+	{
+		"name": "Squirtle",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Wartortle",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Blastoise",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Caterpie",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Metapod",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Butterfree",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Weedle",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Kakuna",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Beedrill",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Pidgey",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Pidgeotto",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Pidgeot",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Rattata",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Raticate",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Spearow",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Fearow",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Ekans",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Arbok",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Pikachu",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Raichu",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Sandshrew",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Sandslash",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Nidoran♀",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Nidorina",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Nidoqueen",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "Ground",
+		"captureOdds": ""
+	},
+	{
+		"name": "Nidoran♂",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Nidorino",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Nidoking",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "Ground",
+		"captureOdds": ""
+	},
+	{
+		"name": "Clefairy",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fairy",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Clefable",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fairy",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Vulpix",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Ninetales",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Jigglypuff",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Fairy",
+		"captureOdds": ""
+	},
+	{
+		"name": "Wigglytuff",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Fairy",
+		"captureOdds": ""
+	},
+	{
+		"name": "Zubat",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Golbat",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Oddish",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Gloom",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Vileplume",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Paras",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Grass",
+		"captureOdds": ""
+	},
+	{
+		"name": "Parasect",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Grass",
+		"captureOdds": ""
+	},
+	{
+		"name": "Venonat",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Venomoth",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Diglett",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Dugtrio",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Meowth",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Persian",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Psyduck",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Golduck",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Mankey",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fighting",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Primeape",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fighting",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Growlithe",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Arcanine",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Poliwag",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Poliwhirl",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Poliwrath",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Fighting",
+		"captureOdds": ""
+	},
+	{
+		"name": "Abra",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Kadabra",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Alakazam",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Machop",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fighting",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Machoke",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fighting",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Machamp",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fighting",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Bellsprout",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Weepinbell",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Victreebel",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Tentacool",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Tentacruel",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Geodude",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Ground",
+		"captureOdds": ""
+	},
+	{
+		"name": "Graveler",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Ground",
+		"captureOdds": ""
+	},
+	{
+		"name": "Golem",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Ground",
+		"captureOdds": ""
+	},
+	{
+		"name": "Ponyta",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Rapidash",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Slowpoke",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Psychic",
+		"captureOdds": ""
+	},
+	{
+		"name": "Slowbro",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Psychic",
+		"captureOdds": ""
+	},
+	{
+		"name": "Magnemite",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "Steel",
+		"captureOdds": ""
+	},
+	{
+		"name": "Magneton",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "Steel",
+		"captureOdds": ""
+	},
+	{
+		"name": "Farfetch'd",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Doduo",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Dodrio",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Seel",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Dewgong",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Ice",
+		"captureOdds": ""
+	},
+	{
+		"name": "Grimer",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Muk",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Shellder",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Cloyster",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Ice",
+		"captureOdds": ""
+	},
+	{
+		"name": "Gastly",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ghost",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Haunter",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ghost",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Gengar",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ghost",
+		"type2": "Poison",
+		"captureOdds": ""
+	},
+	{
+		"name": "Onix",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Ground",
+		"captureOdds": ""
+	},
+	{
+		"name": "Drowzee",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Hypno",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Krabby",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Kingler",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Voltorb",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Electrode",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Exeggcute",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Psychic",
+		"captureOdds": ""
+	},
+	{
+		"name": "Exeggutor",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "Psychic",
+		"captureOdds": ""
+	},
+	{
+		"name": "Cubone",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Marowak",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Hitmonlee",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fighting",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Hitmonchan",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fighting",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Lickitung",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Koffing",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Weezing",
+		"description": "",
+		"imageHash": "",
+		"type1": "Poison",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Rhyhorn",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "Rock",
+		"captureOdds": ""
+	},
+	{
+		"name": "Rhydon",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ground",
+		"type2": "Rock",
+		"captureOdds": ""
+	},
+	{
+		"name": "Chansey",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Tangela",
+		"description": "",
+		"imageHash": "",
+		"type1": "Grass",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Kangaskhan",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Horsea",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Seadra",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Goldeen",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Seaking",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Staryu",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Starmie",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Psychic",
+		"captureOdds": ""
+	},
+	{
+		"name": "Mr. Mime",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "Fairy",
+		"captureOdds": ""
+	},
+	{
+		"name": "Scyther",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Jynx",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ice",
+		"type2": "Psychic",
+		"captureOdds": ""
+	},
+	{
+		"name": "Electabuzz",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Magmar",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Pinsir",
+		"description": "",
+		"imageHash": "",
+		"type1": "Bug",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Tauros",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Magikarp",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Gyarados",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Lapras",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "Ice",
+		"captureOdds": ""
+	},
+	{
+		"name": "Ditto",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Eevee",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Vaporeon",
+		"description": "",
+		"imageHash": "",
+		"type1": "Water",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Jolteon",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Flareon",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Porygon",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Omanyte",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Water",
+		"captureOdds": ""
+	},
+	{
+		"name": "Omastar",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Water",
+		"captureOdds": ""
+	},
+	{
+		"name": "Kabuto",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Water",
+		"captureOdds": ""
+	},
+	{
+		"name": "Kabutops",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Water",
+		"captureOdds": ""
+	},
+	{
+		"name": "Aerodactyl",
+		"description": "",
+		"imageHash": "",
+		"type1": "Rock",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Snorlax",
+		"description": "",
+		"imageHash": "",
+		"type1": "Normal",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Articuno",
+		"description": "",
+		"imageHash": "",
+		"type1": "Ice",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Zapdos",
+		"description": "",
+		"imageHash": "",
+		"type1": "Electric",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Moltres",
+		"description": "",
+		"imageHash": "",
+		"type1": "Fire",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Dratini",
+		"description": "",
+		"imageHash": "",
+		"type1": "Dragon",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Dragonair",
+		"description": "",
+		"imageHash": "",
+		"type1": "Dragon",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Dragonite",
+		"description": "",
+		"imageHash": "",
+		"type1": "Dragon",
+		"type2": "Flying",
+		"captureOdds": ""
+	},
+	{
+		"name": "Mewtwo",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "",
+		"captureOdds": ""
+	},
+	{
+		"name": "Mew",
+		"description": "",
+		"imageHash": "",
+		"type1": "Psychic",
+		"type2": "",
+		"captureOdds": ""
+	}
+]

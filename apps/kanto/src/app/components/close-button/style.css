@@ -1,0 +1,9 @@
+.close-btn {
+  opacity: 50%;
+}
+
+.close-btn img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

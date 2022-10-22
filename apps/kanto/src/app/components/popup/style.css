@@ -1,0 +1,10 @@
+.popup-content {
+  width: calc(100% - 30px);
+  position: relative;
+}
+
+@media only screen and (max-width: 600px) {
+  .MuiDialog-container .MuiPaper-root {
+    justify-content: flex-start !important;
+  }
+}

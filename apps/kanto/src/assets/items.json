@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Poké Ball",
+		"description": "",
+		"imageHash": "",
+		"price": 100,
+		"consumable": true
+	},
+	{
+		"name": "Great Ball",
+		"description": "",
+		"imageHash": "",
+		"price": 200,
+		"consumable": true
+	},
+	{
+		"name": "Ultra Ball",
+		"description": "",
+		"imageHash": "",
+		"price": 1000,
+		"consumable": true
+	},
+	{
+		"name": "Master Ball",
+		"description": "",
+		"imageHash": "",
+		"price": 10000,
+		"consumable": true
+	},
+	{
+		"name": "Fishing Rod",
+		"description": "",
+		"imageHash": "",
+		"price": 1000,
+		"consumable": false
+	},
+	{
+		"name": "Good Rod",
+		"description": "",
+		"imageHash": "",
+		"price": 2500,
+		"consumable": false
+	},
+	{
+		"name": "Super Rod",
+		"description": "",
+		"imageHash": "",
+		"price": 10000,
+		"consumable": false
+	},
+	{
+		"name": "Boat",
+		"description": "",
+		"imageHash": "",
+		"price": 5000,
+		"consumable": false
+	},
+	{
+		"name": "Flashlight",
+		"description": "",
+		"imageHash": "",
+		"price": 5000,
+		"consumable": false
+	}
+]
